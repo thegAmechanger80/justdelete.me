@@ -7,7 +7,14 @@
             "4shared.com"
         ]
     },
-
+    {
+        "name": "Scratch"
+        "url": "https://scratch.mit.edu/accounts/settings/",
+        "difficulty": "medium",
+        "domains": [
+            "scratch.mit.edu"
+        ]
+    },    
     {
         "name": "500px",
         "url": "https://500px.com/settings",
